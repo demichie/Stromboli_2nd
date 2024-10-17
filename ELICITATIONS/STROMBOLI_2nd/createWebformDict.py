@@ -10,7 +10,9 @@ quest_type = 'target'
 
 target_list = [36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62]
 # seed_list = [1,2]
-absolute_indexing = False
+absolute_indexing = True
+
+label_flag = True
 
 # encrypted = False
 
