@@ -2,7 +2,7 @@
 # datarepo = 'local'
 
 datarepo = 'github'
-RepositoryData = 'Strombli_2nd_answers'
+RepositoryData = 'Stromboli_2nd_answers'
 
 # this can be 'seed' or 'target'
 quest_type = 'target'
